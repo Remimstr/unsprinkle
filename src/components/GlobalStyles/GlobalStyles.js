@@ -53,6 +53,7 @@ table {
   font-family: 'Inter', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-synthesis: none;
+  font-display: fallback;
 }
 
 html {
